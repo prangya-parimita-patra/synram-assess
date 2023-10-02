@@ -25,6 +25,7 @@ function App() {
         console.log(option,single)
         setMenuOptions(menus[option])
       }
+      return 1;
     })
   }
   
